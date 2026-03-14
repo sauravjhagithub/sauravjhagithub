@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Saurav Kumar Jha
 
-<!--
-**sauravjhagithub/sauravjhagithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate / MCA 
+💻 Frontend Developer  
 
-Here are some ideas to get you started:
+## Skills
+HTML  
+CSS  
+JavaScript  
+React  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 Stopwatch Project  
+🔹 Wikipedia Search App  
+🔹 Boom Defuser Game  
+🔹 Student Management React App
